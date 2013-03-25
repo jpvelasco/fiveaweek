@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Five.Web", "Five.Web\Five.Web.csproj", "{03A8D27F-E9C6-4FF8-A537-1FF8A3BDB6E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Five.Web.Tests", "Five.Web.Tests\Five.Web.Tests.csproj", "{210CFF44-F0B2-44D6-A320-640AB5D43771}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A8D27F-E9C6-4FF8-A537-1FF8A3BDB6E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A8D27F-E9C6-4FF8-A537-1FF8A3BDB6E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A8D27F-E9C6-4FF8-A537-1FF8A3BDB6E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A8D27F-E9C6-4FF8-A537-1FF8A3BDB6E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{210CFF44-F0B2-44D6-A320-640AB5D43771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{210CFF44-F0B2-44D6-A320-640AB5D43771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{210CFF44-F0B2-44D6-A320-640AB5D43771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{210CFF44-F0B2-44D6-A320-640AB5D43771}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
